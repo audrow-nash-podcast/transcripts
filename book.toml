@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Audrow Nash Podcast Transcripts"
+
+[output.html]
+site-url = "/transcripts/"
+git-repository-url = "https://github.com/audrow-nash-podcast/transcripts/tree/main/"
+edit-url-template = "https://github.com/audrow-nash-podcast/transcripts/edit/main/{path}"

@@ -1,0 +1,6 @@
+[book]
+authors = ["Audrow Nash"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Audrow Nash Podcast Transcripts"

@@ -1,3 +1,3 @@
-# Summary
+# Episodes
 
-- [Chapter 1](./chapter_1.md)
+1. [Electric Sheep](./electric-sheep-1.md)

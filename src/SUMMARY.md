@@ -1,3 +1,5 @@
 # Episodes
 
-1. [Electric Sheep](./electric-sheep-1.md)
+[About](./about.md)
+
+1. [Electric Sheep](1-electric-sheep.md)

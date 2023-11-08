@@ -1,6 +1,4 @@
-# Electric Sheep interview
-
-# Electric Sheep interview
+# Electric Sheep
 
 [00:00:00] **Audrow Nash:** I've talked to a lot of people about this interview, and I'm excited that I get to share it with you. In it, I talk with Nag and Mike from Electric Sheep. They're doing many things differently than most robotics companies that I've talked to, and they're making big bets that I think will pay off. Here are three examples to show you what I mean.
 

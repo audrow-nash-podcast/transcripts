@@ -2,7 +2,7 @@
 
 ## Local Development
 
-To run locally, make sure you have [Rust](https://www.rust-lang.org/tools/install) and [mdbook](https://rust-lang.github.io/mdBook/guide/installation.html) installed.
+To run locally, make sure you have [Rust](https://www.rust-lang.org/tools/install) and [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) installed.
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh

@@ -1,4 +1,4 @@
-# Electric Sheep
+# Rethinking Robotics: Electric Sheep's Journey to Safer, Smarter Machines
 
 ## Table of Contents
 

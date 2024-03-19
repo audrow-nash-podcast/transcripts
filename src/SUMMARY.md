@@ -11,3 +11,5 @@
 4. [Making Disruptive Tech Not Disruptive: Exciting Uses for Robots on Farms](4-making-disruptive-tech-not-disruptive-exciting-uses-for-robots-on-farms.md)
 
 5. [The State of Robotics report in 2024: Early Days, but Great Potential](5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.md)
+
+6. [OSRA: Pioneering a Sustainable Open Source Ecosystem for Robotics](6-osra-pioneering-a-sustainable-open-source-ecosystem-for-robotics.md)

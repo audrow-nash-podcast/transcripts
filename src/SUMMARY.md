@@ -13,3 +13,5 @@
 5. [The State of Robotics report in 2024: Early Days, but Great Potential](5-the-state-of-robotics-report-in-2024-early-days-but-great-potential.md)
 
 6. [OSRA: Pioneering a Sustainable Open Source Ecosystem for Robotics](6-osra-pioneering-a-sustainable-open-source-ecosystem-for-robotics.md)
+
+7. [An Exciting Vision of American Manufacturing with Robotics and AI](7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.md)

@@ -1,5 +1,5 @@
 - [\[00:00:29\] Episode intro](#000029-episode-intro)
-- [\[00:01:51\] Introducing Edward and Macna Labs](#000151-introducing-edward-and-macna-labs)
+- [\[00:01:51\] Introducing Edward and Machina Labs](#000151-introducing-edward-and-machina-labs)
 - [\[00:07:33\] AI in manufacturing](#000733-ai-in-manufacturing)
 - [\[00:15:19\] Using data for better models than physics-based models](#001519-using-data-for-better-models-than-physics-based-models)
 - [\[00:18:51\] Capturing data + modeling](#001851-capturing-data--modeling)
@@ -51,7 +51,7 @@ Without further ado, here's my conversation with Edward.
 
 ​
 
-## [00:01:51] Introducing Edward and Macna Labs
+## [00:01:51] Introducing Edward and Machina Labs
 
 [00:01:51] **Audrow Nash:** Would you introduce yourself?
 

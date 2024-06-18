@@ -17,3 +17,5 @@
 7. [An Exciting Vision of American Manufacturing with Robotics and AI](7-an-exciting-vision-of-american-manufacturing-with-robotics-and-ai.md)
 
 8. [Can You Ship a Factory? A Bold Vision to Make Homes More Affordable](8-can-you-ship-a-factory-a-bold-vision-to-make-homes-more-affordable.md)
+
+9. [How to Accelerate Robotics Startups? A Better Data Visualization Story](9-how-to-accelerate-robotics-startups-a-better-data-visualization-story.md)

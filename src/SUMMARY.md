@@ -19,3 +19,5 @@
 8. [Can You Ship a Factory? A Bold Vision to Make Homes More Affordable](8-can-you-ship-a-factory-a-bold-vision-to-make-homes-more-affordable.md)
 
 9. [How to Accelerate Robotics Startups? A Better Data Visualization Story](9-how-to-accelerate-robotics-startups-a-better-data-visualization-story.md)
+
+10. [Hungry for Innovation: Is AI the Key to Fixing Food Industry Labor Issues?](10-hungry-for-innovation-is-ai-the-key-to-fixing-food-industry-labor-issues.md)

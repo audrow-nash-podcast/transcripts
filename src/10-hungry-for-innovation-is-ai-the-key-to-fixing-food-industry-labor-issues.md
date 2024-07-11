@@ -1,4 +1,4 @@
-- [\[00:01:36\] Introduction to Rjat and Chef Robotics](#000136-introduction-to-rjat-and-chef-robotics)
+- [\[00:01:36\] Introduction to Rajat and Chef Robotics](#000136-introduction-to-rajat-and-chef-robotics)
 - [\[00:03:03\] Early Ventures and the Power of AI](#000303-early-ventures-and-the-power-of-ai)
 - [\[00:05:51\] Identifying the Market Opportunity](#000551-identifying-the-market-opportunity)
 - [\[00:08:15\] Challenges in Food Industry Automation](#000815-challenges-in-food-industry-automation)
@@ -20,7 +20,7 @@
 So grab a snack, maybe one assembled by a robot in the near future, and join us for a fascinating exploration of AI, robotics, and the future of food. Let's dive in.
 
 
-## [00:01:36] Introduction to Rjat and Chef Robotics
+## [00:01:36] Introduction to Rajat and Chef Robotics
 
 [00:01:36] **Audrow Nash:** Would you introduce yourself?
 
